@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @suren-sunderan
-- 👀 I’m interested in machine learning, cybersecurity and networking
-- 📫 How to reach me linkedin https://www.linkedin.com/in/surenraj-sunderan-375ab6174/
 
 <!---
 suren-sunderan/suren-sunderan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
